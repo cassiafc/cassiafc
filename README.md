@@ -30,12 +30,9 @@
 </p>
 
 <div align="center">
-    <p>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cassiafc&show_icons=true&locale=en" alt="cassiafc"/>
-    </p>
-    <p>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiafc&show_icons=true&locale=en&layout=compact&langs_count=7" alt="cassiafc" />
-    </p>
+    <a href="https://github.com/cassiafc">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cassiafc&show_icons=true&locale=en" alt="cassiafc"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiafc&show_icons=true&locale=en&layout=compact&" alt="cassiafc" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
