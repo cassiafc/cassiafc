@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou a Cássia Silva</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
     </a> 
@@ -35,13 +35,15 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiafc&show_icons=true&locale=en&layout=compact&" alt="cassiafc" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<div>
+<div align="center">
+    <a href = "mailto:cassia.siilva09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                       target="_blank"></a>
     <a href="https://www.linkedin.com/in/cassia-silva-araujo/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://cassiafc.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
+    
 </div>
