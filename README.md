@@ -46,4 +46,6 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
     
+     ![Snake animation](https://github.com/cassiafc/cassiafc/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
