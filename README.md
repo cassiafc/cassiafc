@@ -4,29 +4,43 @@
 
 <p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-    </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> 
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="30" /> 
     </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-    </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="80" height="30" /> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="80" height="30" /> 
+    </a>
+     <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="80" height="30" /> 
+    </a>
+     <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="80" height="30" /> 
+    </a>
+    <a>
+        <a/>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" width="80" height="30" /> 
+    </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" width="80" height="30" />
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="80" height="30" /> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> 
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="80" height="30" /> 
     </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="linux" width="40" height="40" /> 
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="80" height="30" /> 
     </a> 
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" width="80" height="30" /> 
+    </a>
+    <a href="#" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="80" height="30" /> 
+    </a>
 </p>
 
 <div align="center">
